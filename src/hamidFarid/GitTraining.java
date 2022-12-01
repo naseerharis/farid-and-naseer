@@ -11,6 +11,9 @@ public class GitTraining {
 		
 
 	}
+	public void setName(){
+		//this is from git .
+	}
 	
 
 }
