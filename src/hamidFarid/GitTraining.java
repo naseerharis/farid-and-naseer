@@ -8,6 +8,9 @@ public class GitTraining {
 		int a = 150;
 		int b = 250;
 		int sum = a +b;
+		String name = "ahmad";
+		//name.toUpperCase();
+		System.out.println(name.toUpperCase());
 		
 
 	}
